@@ -1,4 +1,3 @@
-```markdown
 # TodoList Project 🚀
 
 Welcome to the **TodoList Project**! This project is a sleek, modern to-do list application built with React. It features a minimalistic design with a dark theme, intuitive interface, and essential functionalities to manage your daily tasks.
@@ -13,6 +12,8 @@ Welcome to the **TodoList Project**! This project is a sleek, modern to-do list 
 ## Demo 📸
 
 Check out the demo Image:
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/120fa30a-0b25-4d5f-bd6b-925f365dee00)
+
 
 ## Getting Started 🛠️
 
@@ -220,4 +221,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 Enjoy coding! 🎉
 
 Made with ❤️ by **Rakhul👩‍💻**
-```
