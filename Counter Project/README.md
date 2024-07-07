@@ -175,7 +175,7 @@ This project is licensed under the MIT License.
 
 Enjoy coding! 🎉
 
-Made with ❤️ by [Rakhul👩‍💻]
+Made with ❤️ by **Rakhul👩‍💻**
 ```
 
 Feel free to customize this README further to suit your project's needs!
