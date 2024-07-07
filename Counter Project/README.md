@@ -1,16 +1,17 @@
-```markdown
 # React Counter App 🚀
 
 Welcome to the **React Counter App**! This project is a beginner-friendly introduction to React, focusing on understanding the `useState` hook to create a simple counter with a clean interface.
 
 ## Demo 📸
 
-Check out the live demo: [Counter App Live](#)
+Check out the demo:
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/52f10b56-a6b6-462c-8df2-981a292d6881)
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/2baca41e-8019-407d-81a1-66b4e8faee75)
+
 
 ## Features ✨
 
 - Increment and decrement the counter
-- Reset the counter
 - Clean and minimalistic UI
 - Beginner-friendly code and comments
 
@@ -174,7 +175,7 @@ This project is licensed under the MIT License.
 
 Enjoy coding! 🎉
 
-Made with ❤️ by [Rakhul👩‍💻]
+Made with ❤️ by **Rakhul👩‍💻**
 ```
 
 Feel free to customize this README further to suit your project's needs!
