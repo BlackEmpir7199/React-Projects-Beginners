@@ -4,7 +4,10 @@ Welcome to the **React Counter App**! This project is a beginner-friendly introd
 
 ## Demo 📸
 
-Check out the live demo: [Counter App Live](#)
+Check out the demo:
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/52f10b56-a6b6-462c-8df2-981a292d6881)
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/2baca41e-8019-407d-81a1-66b4e8faee75)
+
 
 ## Features ✨
 
