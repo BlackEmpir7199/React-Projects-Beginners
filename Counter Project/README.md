@@ -1,4 +1,3 @@
-```markdown
 # React Counter App 🚀
 
 Welcome to the **React Counter App**! This project is a beginner-friendly introduction to React, focusing on understanding the `useState` hook to create a simple counter with a clean interface.
