@@ -14,6 +14,9 @@ Welcome to the **Meal API Project**! This project showcases a collection of meal
 
 Check out the demo Image:
 
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/abddb7f3-2e73-4d17-8e02-f89a4f49ac0e)
+
+
 ## Getting Started 🛠️
 
 Follow these instructions to set up the project on your local machine.
