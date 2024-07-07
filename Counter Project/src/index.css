@@ -1,0 +1,47 @@
+*{
+  background-color: rgb(16, 16, 16);
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 95vh;
+}
+
+.heading{
+  font-size: 72px;
+  font-family: 'Courier New', Courier, monospace;
+  background: -webkit-linear-gradient(#eee,cyan); 
+  text-align: center;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.number{
+  color: azure;
+  font-size: 5rem;
+  text-align: center;
+  font-family: monospace;
+}
+
+.btns-container{
+  display: flex;
+  flex-direction: row;
+  height: 75px;
+  width: 300px;
+  flex: 1fr 1fr;
+  justify-content: space-between;
+}
+
+button{
+  width: 80px;
+  height: 80px;
+  border-radius: 25%;
+  background-color: transparent;
+  font-size: 30px;
+  color: white;
+  box-shadow: 2px 3px 10px cyan;
+  margin: 20px;
+}
