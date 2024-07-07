@@ -12,7 +12,6 @@ Check out the demo:
 ## Features ✨
 
 - Increment and decrement the counter
-- Reset the counter
 - Clean and minimalistic UI
 - Beginner-friendly code and comments
 
