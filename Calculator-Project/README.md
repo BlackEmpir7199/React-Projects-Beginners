@@ -12,7 +12,13 @@ Welcome to the **Calculator Project**! This simple yet stylish calculator applic
 
 ## Demo 📸
 
-Check out the demo Image:
+Check out the demo Images:
+
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/e75228c8-ddfc-4905-8b6e-809c97d3ade9)
+
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/bab61b1b-97d1-46c6-86c8-74d8daf770d7)
+
+
 
 ## Getting Started 🛠️
 
