@@ -13,6 +13,11 @@ Welcome to the **Hidden Search Bar Project**! This intuitive application feature
 
 Check out the demo Images:
 
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/72aca8d9-ff10-4ae2-b87a-df850cc47697)
+
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/2ba6b818-1a11-491a-98be-0b80119f8521)
+
+
 ## Getting Started 🛠️
 
 Follow these instructions to set up the project on your local machine.
