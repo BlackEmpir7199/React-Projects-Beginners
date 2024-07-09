@@ -14,6 +14,12 @@ Welcome to the **Toggle Button Color Project**! This simple yet stylish applicat
 
 Check out the demo Images:
 
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/23c1fe39-01a1-485c-b5c6-083a6e7df233)
+
+![image](https://github.com/BlackEmpir7199/React-Projects-Beginners/assets/118678415/422c1728-ffc9-491a-a1ab-b10bc75e4b17)
+
+
+
 ## Getting Started 🛠️
 
 Follow these instructions to set up the project on your local machine.
