@@ -186,8 +186,8 @@ function App() {
     </>
   )
 }
-```
 export default App
+```
 
 ## Contributing 🤝
 
