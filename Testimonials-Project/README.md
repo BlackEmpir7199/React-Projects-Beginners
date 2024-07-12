@@ -8,6 +8,12 @@ Welcome to the **Testimonials Project**! This project showcases a simple yet sle
 - **Interactive Navigation**: Users can click through testimonials.
 - **Modern Aesthetics**: Clean and minimalist design with a dark theme.
 
+## Demo 📸
+
+Check out the demo Image:
+![image](https://github.com/user-attachments/assets/b4108966-7813-44e8-a98e-924a5f85d26c)
+
+
 ## 🚀 Getting Started
 
 1. **Install dependencies:**
@@ -168,7 +174,9 @@ button:hover {
 }
 ```
 
-### App.jsx 
+### App.jsx
+
+```jsx
 import Testimonials from './components/Testimonials'
 
 function App() {
@@ -178,7 +186,7 @@ function App() {
     </>
   )
 }
-
+```
 export default App
 
 ## Contributing 🤝
