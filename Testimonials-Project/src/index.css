@@ -1,6 +1,12 @@
 body{
   background-color: #0b0e14;
   margin: 0px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+  font-size: 2.5rem;
+  color: azure;
 }
 
 .outer{
@@ -8,6 +14,7 @@ body{
   justify-content: center;
   align-items: center;
   height: 100vh;
+  flex-direction: column;
 }
 
 .Testimonials{
@@ -15,15 +22,73 @@ body{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  border: 1px solid cyan;
-  height: 100px;
-  width: 500px;
+  border: 10px solid chartreuse;
+  box-shadow: 0px 0px 12px chartreuse;
+  height: 12rem;
+  width: 45rem;
+  background-color: azure;
+}
+
+.Testimonials:hover{
+  box-shadow: 0px 0px 50px chartreuse; 
 }
 
 .author{
-  color: azure;
+  color:#0b0e14;
+  font-size: large;
+  font-weight: 600;
+
 }
 
 .quote{
-  color:azure;
+  color: chartreuse;
+  font-size: 2rem;
+  height: 8rem;
+  text-align: center;
+  padding: 30px;
+  background-color:#0b0e14;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+.buttonNav{
+  margin: 70px;
+  display: flex;
+  
+
+}
+
+button {
+  background-color: transparent;
+  height: 55px;
+  width: 120px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: azure;
+  margin: 10px;
+  border: 2px solid chartreuse;
+  transition: background 3s;
+}
+
+button:hover {
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(64,121,9,1) 42%, rgba(159,255,0,1) 91%);
+}
+
+@media screen and (max-width: 600px) {
+  .Testimonials{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 10px solid chartreuse;
+    box-shadow: 0px 0px 12px chartreuse;
+    height: 16rem;
+    width: 24rem;
+    background-color: azure;
+  }
+  .quote{
+    height: 16rem;
+    padding: 16px;
+    font-size: 1.8rem;
+  }
 }

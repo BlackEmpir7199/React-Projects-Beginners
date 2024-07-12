@@ -26,7 +26,8 @@ const Testimonials = () => {
         setIndex((index + 1)%(testimonials.length));
     }
   return (
-    <div className='outer'>     
+    <div className='outer'>
+        <h1>Testimonials Project</h1>     
     <div className='Testimonials'>
         <div className='quote'>
             {testimonials[index].quote}
@@ -34,7 +35,8 @@ const Testimonials = () => {
         <div className='author'>
             {testimonials[index].author}
         </div>
-        <nav className='buttonNav'>
+    </div>
+    <nav className='buttonNav'>
         <button onClick={prevClick}>
         Prev
         </button>
@@ -42,7 +44,6 @@ const Testimonials = () => {
         Next
         </button>
         </nav>
-    </div>
     </div>
   )
 }
